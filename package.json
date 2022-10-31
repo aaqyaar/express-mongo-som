@@ -1,0 +1,24 @@
+{
+  "name": "express-mongo-som",
+  "version": "1.0.0",
+  "description": "Express Mongo is a package that simplifies how to use mongoose in express it's free you can make collabration and add a new something",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "express",
+    "express-mongo-som",
+    "mongoose-pagination",
+    "mongoose"
+  ],
+  "author": "Abdi Zamed Mohamed",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^6.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
