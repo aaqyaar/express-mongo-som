@@ -1,12 +1,20 @@
 {
   "name": "express-mongo-som",
-  "version": "1.0.0",
-  "description": "Express Mongo is a package that simplifies how to use mongoose in express it's free you can make collabration and add a new something",
+  "version": "1.0.2",
+  "description": "Express mongo som is a package that simplifies how to use mongoose in express it's free you can make collabration and add a new something",
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdi-aaqyaar/express-mongo-som.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abdi-aaqyaar/express-mongo-som.git#issues"
+  },
+  "homepage": "https://github.com/abdi-aaqyaar/express-mongo-som.git#readme",
   "keywords": [
     "express",
     "express-mongo-som",
