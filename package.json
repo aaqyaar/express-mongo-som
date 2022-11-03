@@ -1,6 +1,6 @@
 {
   "name": "express-mongo-som",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Express mongo som is a package that simplifies how to use mongoose in express it's free you can make collabration and add a new something",
   "main": "src/index.js",
   "scripts": {
